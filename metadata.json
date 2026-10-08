@@ -1,0 +1,6 @@
+{
+  "name": "HUNRE Mobile PKI & PDF Digital Signature System",
+  "description": "Hệ thống ký số tài liệu PDF an toàn dựa trên hạ tầng khóa công khai (PKI) và cơ chế chứng thực số tích hợp trên thiết bị di động - Khoa CNTT, Đại học Tài nguyên và Môi trường Hà Nội.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
